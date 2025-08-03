@@ -50,7 +50,7 @@ In Fruit Harvest Adventure, you play as a character who needs to collect fruits 
    ```
 3. **Run the game**:
    ```bash
-   python fruit_harvest_game.py
+    python 2106maxfruits.py
    ```
 
 ## 🎮 How to Play
